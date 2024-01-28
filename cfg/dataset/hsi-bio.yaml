@@ -1,0 +1,29 @@
+train: E:\Research\HSI-DETR\HSI-DETR\HSI-DETR\dataset_s\train\images
+val: E:\Research\HSI-DETR\HSI-DETR\HSI-DETR\dataset_s\val\images
+test: E:\Research\HSI-DETR\HSI-DETR\HSI-DETR\dataset_s\test\images
+
+# Classes
+names:
+  0: Anthrenus
+  1: Avena sativa
+  2: Bidens pilosa
+  3: Carthamus lanatus
+  4: Carthamus tinctorius
+  5: Centaurea melitensis
+  6: Cernuella vestita
+  7: Cernuella virgata
+  8: Cicer arietinum
+  9: Citrullus lanatus
+  10: Cochlicella acuta
+  11: Galinsogab quadriradiata
+  12: Hieracium sabaudum
+  13: Hypochaeris glabra
+  14: Hypochaeris radicata
+  15: Lens culinaris
+  16: Lupinus albus
+  17: Massylaea vermiculata
+  18: Pisum sativum
+  19: Sonchus arvensis
+  20: Sorghum bicolor
+  21: Thlaspi arvense
+  22: Trogoderma variabile
