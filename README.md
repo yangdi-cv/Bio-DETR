@@ -17,4 +17,4 @@ python tools/predict.py
 yolo task=detect mode=train model=cfg/network/rtdetr_bio-detr.yaml data=cfg/dataset/hsi-bio.yaml batch=16 epochs=300
 ```
 
-Dataset: https://drive.google.com/drive/folders/1QiMLZopLLVuNav_py7TyrwpI6h3WVJ25?usp=sharing
+Dataset (release after publish): [Link](https://drive.google.com/drive/folders/1QiMLZopLLVuNav_py7TyrwpI6h3WVJ25?usp=sharing)
