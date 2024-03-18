@@ -1,6 +1,6 @@
 # Bio-DETR: A Transformer-based Network for Pest and Seed Detection with Hyperspectral Images
 
-<img src="https://github.com/yangdi-cv/Bio-DETR/blob/master/network/bio-detr.png?raw=true" height="180"/>
+<img src="https://github.com/yangdi-cv/Bio-DETR/blob/master/network/bio-detr.png?raw=true" height="200"/>
 
 ## Dependencies
 ```sh
