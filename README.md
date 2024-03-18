@@ -17,7 +17,7 @@ python tools/predict.py
 yolo task=detect mode=train model=cfg/network/rtdetr_bio-detr.yaml data=cfg/dataset/hsi-bio.yaml batch=16 epochs=300
 ```
 
-## Citations
+## Citation
 ```
 @inproceedings{biodetr,
     title={Bio-DETR: A Transformer-based Network for Pest and Seed Detection with Hyperspectral Images},
