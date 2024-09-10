@@ -1,6 +1,10 @@
 # Bio-DETR: A Transformer-based Network for Pest and Seed Detection with Hyperspectral Images
 
+By Y. Di, S. L. Phung, J. Berg, J. Clissold, L. Bui, H. T. Le, and A. Bouzerdoum.
+
 <img src="https://github.com/yangdi-cv/Bio-DETR/blob/master/network/bio-detr.png?raw=true" height="200"/>
+
+This repository is an official PyTorch implementation of [Bio-DETR](https://ieeexplore.ieee.org/document/10650195), published by IJCNN 2024.
 
 ## Dependencies
 ```sh
