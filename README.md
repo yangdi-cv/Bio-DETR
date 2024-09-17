@@ -27,6 +27,7 @@ yolo task=detect mode=train model=cfg/network/rtdetr_bio-detr.yaml data=cfg/data
     title={Bio-DETR: A Transformer-based Network for Pest and Seed Detection with Hyperspectral Images},
     author={Yang Di, Son Lam Phung, Julian van den Berg, Jason Clissold, Ly Bui, Hoang Thanh Le, and Abdesselam Bouzerdoum},
     booktitle={International Joint Conference on Neural Networks (IJCNN)},
+    pages={1-8},
     year={2024}
 }
 ```
